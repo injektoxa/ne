@@ -4,12 +4,12 @@ Feature: Book search
 
 @SC_1184 @Critical @Test_1
 Scenario: Search books by publication year
-#without given in feature having no background
-#without keywords in the beginning each strings
-#less then 2 lines
-#having keywords only
-#pagination bar should not be exactly rsd
-#pagination bar should not be displayed when scenario list has less than or exactly 10 scenarios eeeee
+#folder
+#cancel action
+#confirm action
+#feature
+#cancel action
+#confirm action
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 And another book with the title 'Some other book', written by 'Tim Tomson', published in 23 August 2014
 And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
