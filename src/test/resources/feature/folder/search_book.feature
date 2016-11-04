@@ -4,6 +4,10 @@ Feature: Book search
 
 @SC_1184 @Critical @Test_1
 Scenario: Search books by publication year
+#without given in feature having no background
+#without keywords in the beginning each strings
+#less then 2 lines
+#having keywords only
 #pagination bar should not be exactly rsd
 #pagination bar should not be displayed when scenario list has less than or exactly 10 scenarios eeeee
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
