@@ -1,7 +1,7 @@
 @ST_14761 @Story_BookSearch
 Feature: Salary Management
 
-@SC_61825 @Test_1 @High
+@SC_61825 @High @Test_1
 Scenario: Modify an employee's salary
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
