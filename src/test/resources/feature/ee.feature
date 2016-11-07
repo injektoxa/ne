@@ -2,7 +2,7 @@
 Feature: ee
 
 @SC_1185 @fsdf
-Scenario: ffff
+Scenario: ffffddd
 ssss
 Given aaa
 When bbb
