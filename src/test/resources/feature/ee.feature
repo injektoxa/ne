@@ -1,7 +1,7 @@
-@ddd
+@ST_14881 @ddd
 Feature: ee
 
-@dddd @asdffas
+@SC_62514 @dddd @asdffas
 Scenario: aaaa
 ssss
 Given aaa
