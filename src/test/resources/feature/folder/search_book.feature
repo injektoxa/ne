@@ -1,5 +1,8 @@
+@ST_1176
 Feature: Book search
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
+
+@SC_1187
 Scenario: Search books by publication year
 #folder
 #cancel action
