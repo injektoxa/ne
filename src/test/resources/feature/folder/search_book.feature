@@ -5,7 +5,7 @@ Feature: Book search
 Background: bg
 
 Given aaa
-When bbb
+When bbbffff
 
 @SC_1342
 Scenario: Search books by publication year
