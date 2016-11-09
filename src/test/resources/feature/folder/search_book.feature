@@ -7,6 +7,11 @@ Background: asdf
 Given a
 When b
 
+@SC_1284 @test
+Scenario: test
+Given a
+When b
+
 @SC_1187
 Scenario: Search books by publication year
 #folder
