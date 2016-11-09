@@ -2,6 +2,11 @@
 Feature: Book search
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
+Background: bg
+
+Given aaa
+When bbb
+
 @SC_1342
 Scenario: Search books by publication year
 #folder
