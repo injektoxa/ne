@@ -9,7 +9,7 @@ When b
 
 @SC_1284 @test
 Scenario: test
-When adeddd
+Given adeddd
 Then bdesss
 
 @SC_1187
