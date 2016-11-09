@@ -9,8 +9,8 @@ When b
 
 @SC_1284 @test
 Scenario: test
-When ad
-Then bd
+When ade
+Then bde
 
 @SC_1187
 Scenario: Search books by publication year
